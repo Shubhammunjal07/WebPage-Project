@@ -3,7 +3,7 @@ Webpage Clock ,
 ToDo Lists
 
 # Requirements 
-HTML
-CSS
-JavaScript
+HTML,
+CSS,
+JavaScript,
 Bootstrap
