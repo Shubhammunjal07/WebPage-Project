@@ -1,9 +1,8 @@
 # WebPage-Project
-Webpage Clock ,
-ToDo Lists
+Webpage Clock and ToDo Lists
 
 # Requirements 
-HTML,
-CSS,
-JavaScript,
+HTML
+CSS
+JavaScript
 Bootstrap
